@@ -10,6 +10,7 @@ To install the project dependencies, run the following command in your terminal:
 
 ```bash
 npm install
-
+```
 ```bash
 node Bluejay_Assignment.js
+```
